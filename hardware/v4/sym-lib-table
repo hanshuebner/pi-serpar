@@ -1,4 +1,6 @@
 (sym_lib_table
-  (lib (name raspberrypi_hat)(type Legacy)(uri ${KIPRJMOD}/project_components/raspberrypi_hat.lib)(options "")(descr ""))
-  (lib (name parport)(type Legacy)(uri ${KIPRJMOD}/project_components/parport.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "raspberrypi_hat")(type "Legacy")(uri "${KIPRJMOD}/project_components/raspberrypi_hat.lib")(options "")(descr ""))
+  (lib (name "parport")(type "Legacy")(uri "${KIPRJMOD}/project_components/parport.lib")(options "")(descr ""))
+  (lib (name "pi-parport-rescue")(type "KiCad")(uri "${KIPRJMOD}/pi-parport-rescue.kicad_sym")(options "")(descr ""))
 )

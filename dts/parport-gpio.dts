@@ -12,7 +12,7 @@
 				brcm,function = <1  1 1 1  1  1  1  1>; // out
 			};
 			status_pins: status_pins {
-				brcm,pins =     <2 3 4 17 18>;
+				brcm,pins =     <2 3 4 27 18>;
 				brcm,function = <0 0 0 0  0>; // in
 			};
 			control_pins: control_pins {
@@ -50,7 +50,7 @@
 				status-gpios = <&gpio 2 0>, // nError
 					       <&gpio 3 0>, // Select
 					       <&gpio 4 0>, // Paperout
-					       <&gpio 17 0>, // nAck
+					       <&gpio 27 0>, // nAck
 					       <&gpio 18 1>; // ~Busy
 				control-gpios = <&gpio 13 1>, // ~nStrobe
 					        <&gpio 6 1>, // ~nAutoLF
