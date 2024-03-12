@@ -432,7 +432,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pi-parport.kicad_pro",
+    "filename": "pi-serpar.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -692,7 +692,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "pi-parport.net",
+      "netlist": "pi-serpar.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""

@@ -1718,7 +1718,7 @@
         )
       )
     )
-    (symbol "pi-parport-rescue:+3.3V-power" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (symbol "pi-serpar-rescue:+3.3V-power" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
       )
@@ -3941,7 +3941,7 @@
       (effects (font (size 1.524 1.524)) hide)
     )
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "H1") (unit 1)
         )
@@ -3965,7 +3965,7 @@
       (effects (font (size 1.524 1.524)) hide)
     )
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "H3") (unit 1)
         )
@@ -3989,7 +3989,7 @@
       (effects (font (size 1.524 1.524)) hide)
     )
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "H2") (unit 1)
         )
@@ -4013,7 +4013,7 @@
       (effects (font (size 1.524 1.524)) hide)
     )
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "H4") (unit 1)
         )
@@ -4095,7 +4095,7 @@
     (pin "8" (uuid 081fe38b-32cd-45ad-ac05-82b9a634816f))
     (pin "9" (uuid c76a09ff-f9e4-4673-a3ff-e8d004676cc0))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "J2") (unit 1)
         )
@@ -4145,7 +4145,7 @@
     (pin "6" (uuid 3ff1c93e-a768-4cfb-8552-eb57e2db270a))
     (pin "7" (uuid 008c3dd5-40ef-4618-8c3a-36f34bc7bc1a))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "U1") (unit 1)
         )
@@ -4189,7 +4189,7 @@
     (pin "1" (uuid 0b5984a3-823c-4f11-ab95-15fdae90cfd8))
     (pin "2" (uuid 322c11c5-3aa9-4f57-941c-b31cb0de9c0f))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "R3") (unit 1)
         )
@@ -4233,7 +4233,7 @@
     (pin "1" (uuid ba4ff94a-6232-48a1-a565-87a221aa2ce1))
     (pin "2" (uuid bf8a7b25-55e6-464a-b16d-30031ce456f1))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "R4") (unit 1)
         )
@@ -4277,7 +4277,7 @@
     (pin "1" (uuid 53e99bc1-1d6e-4889-b4fe-8a8093c34efb))
     (pin "2" (uuid dadd88b9-7896-45ae-81bf-24e97588bc5f))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "R2") (unit 1)
         )
@@ -4302,7 +4302,7 @@
     )
     (pin "1" (uuid 88f48565-cf52-4bbb-bc38-b9a353a8e06c))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR03") (unit 1)
         )
@@ -4327,7 +4327,7 @@
     )
     (pin "1" (uuid c2fa8cfc-d11b-4758-8ea3-9d6a884eba3a))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR07") (unit 1)
         )
@@ -4371,7 +4371,7 @@
     (pin "1" (uuid f8a0cd5c-b455-45a0-ba89-6bd85f56d5b0))
     (pin "2" (uuid 1593139c-f7cb-43ae-92d9-67069d835764))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "R5") (unit 1)
         )
@@ -4396,7 +4396,7 @@
     )
     (pin "1" (uuid c90f588d-8f8c-4281-8248-3537cf8324a9))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR0101") (unit 1)
         )
@@ -4464,7 +4464,7 @@
     (pin "8" (uuid 493c2f91-8e6a-4758-8099-16000137cdec))
     (pin "9" (uuid be6951ba-f745-42e3-9d4e-ceb04ce51017))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "J3") (unit 1)
         )
@@ -4489,7 +4489,7 @@
     )
     (pin "1" (uuid a2b72e38-ee82-49b6-9607-4262a68db6b9))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR014") (unit 1)
         )
@@ -4514,7 +4514,7 @@
     )
     (pin "1" (uuid d8da837a-a698-441d-be10-e8950f1ba2f5))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR01") (unit 1)
         )
@@ -4522,7 +4522,7 @@
     )
   )
 
-  (symbol (lib_id "pi-parport-rescue:+3.3V-power") (at 80.01 168.91 0) (unit 1)
+  (symbol (lib_id "pi-serpar-rescue:+3.3V-power") (at 80.01 168.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dfa392e)
     (property "Reference" "#PWR06" (at 80.01 172.72 0)
@@ -4539,7 +4539,7 @@
     )
     (pin "1" (uuid 75b13d93-cd9f-43fd-9c06-b91eb8bcf206))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR06") (unit 1)
         )
@@ -4547,7 +4547,7 @@
     )
   )
 
-  (symbol (lib_id "pi-parport-rescue:+3.3V-power") (at 44.45 43.18 0) (unit 1)
+  (symbol (lib_id "pi-serpar-rescue:+3.3V-power") (at 44.45 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005dfa8c04)
     (property "Reference" "#PWR02" (at 44.45 46.99 0)
@@ -4564,7 +4564,7 @@
     )
     (pin "1" (uuid f53cc5a2-3a45-48fc-860c-88e1fd64c614))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR02") (unit 1)
         )
@@ -4589,7 +4589,7 @@
     )
     (pin "1" (uuid 235c9f8e-3823-405f-b50c-e766ef584031))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR08") (unit 1)
         )
@@ -4679,7 +4679,7 @@
     (pin "8" (uuid ec9d646f-6561-4465-ab02-408c2748e3b5))
     (pin "9" (uuid 622c4ac3-94a9-4f4e-8919-e64aa0fd1024))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "U2") (unit 1)
         )
@@ -4704,7 +4704,7 @@
     )
     (pin "1" (uuid 3ca7eaac-75d7-4c85-b899-3ac7deb25c4e))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR012") (unit 1)
         )
@@ -4712,7 +4712,7 @@
     )
   )
 
-  (symbol (lib_id "pi-parport-rescue:+3.3V-power") (at 162.56 162.56 0) (unit 1)
+  (symbol (lib_id "pi-serpar-rescue:+3.3V-power") (at 162.56 162.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e0d4c75)
     (property "Reference" "#PWR09" (at 162.56 166.37 0)
@@ -4729,7 +4729,7 @@
     )
     (pin "1" (uuid 516f01f4-9727-4547-bc65-9e32a60c3cf8))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR09") (unit 1)
         )
@@ -4754,7 +4754,7 @@
     )
     (pin "1" (uuid 6824bc53-5f88-43e7-bf87-e1545631e5f1))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR010") (unit 1)
         )
@@ -4779,7 +4779,7 @@
     )
     (pin "1" (uuid acc11354-ced5-4cd2-ad50-189b06a1887f))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#FLG02") (unit 1)
         )
@@ -4804,7 +4804,7 @@
     )
     (pin "1" (uuid 4738e216-ddcd-4f0b-be84-85b572304c04))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#FLG03") (unit 1)
         )
@@ -4829,7 +4829,7 @@
     )
     (pin "1" (uuid 533a74dc-409c-4513-a3cc-e0d762e756fa))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR013") (unit 1)
         )
@@ -4854,7 +4854,7 @@
     )
     (pin "1" (uuid 3809334e-390e-459a-8ad5-85305f2e968b))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#FLG01") (unit 1)
         )
@@ -4898,7 +4898,7 @@
     (pin "1" (uuid 303600f8-7708-40b7-843b-3c448158f1b2))
     (pin "2" (uuid 1ce270de-e852-469f-854d-cf5ae34f2e1f))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "C2") (unit 1)
         )
@@ -4942,7 +4942,7 @@
     (pin "1" (uuid 0ab36625-880c-4ffd-a91e-96ede6ae02df))
     (pin "2" (uuid 342a59f2-0eb8-49b9-952c-d4ef0f224cac))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "C1") (unit 1)
         )
@@ -4950,7 +4950,7 @@
     )
   )
 
-  (symbol (lib_id "pi-parport-rescue:+3.3V-power") (at 137.16 40.64 0) (unit 1)
+  (symbol (lib_id "pi-serpar-rescue:+3.3V-power") (at 137.16 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f177cff)
     (property "Reference" "#PWR015" (at 137.16 44.45 0)
@@ -4967,7 +4967,7 @@
     )
     (pin "1" (uuid 77f2d807-3362-45ce-bcac-b524a897f243))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR015") (unit 1)
         )
@@ -4992,7 +4992,7 @@
     )
     (pin "1" (uuid 57b4476b-18fd-4d2c-87dd-4e1dc8fe5ac4))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR016") (unit 1)
         )
@@ -5000,7 +5000,7 @@
     )
   )
 
-  (symbol (lib_id "pi-parport-rescue:+3.3V-power") (at 111.76 163.83 0) (unit 1)
+  (symbol (lib_id "pi-serpar-rescue:+3.3V-power") (at 111.76 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005f1bdbf0)
     (property "Reference" "#PWR04" (at 111.76 167.64 0)
@@ -5017,7 +5017,7 @@
     )
     (pin "1" (uuid a0363e4b-c2c1-4150-a688-c53ceea6dc93))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR04") (unit 1)
         )
@@ -5042,7 +5042,7 @@
     )
     (pin "1" (uuid 04b89056-75d8-4059-8017-82311eb93720))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR05") (unit 1)
         )
@@ -5086,7 +5086,7 @@
     (pin "1" (uuid 3fcd1fdc-babd-480b-b1a6-214695f2b19b))
     (pin "2" (uuid 5349c2f8-46fc-4929-a015-39dd99fe8edf))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "C4") (unit 1)
         )
@@ -5130,7 +5130,7 @@
     (pin "1" (uuid b93fca58-e7d6-4049-8689-68d129e43910))
     (pin "2" (uuid 25d53be6-1de0-48ce-a614-6e4127e5500f))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "C6") (unit 1)
         )
@@ -5156,7 +5156,7 @@
     (pin "1" (uuid 8b4c095c-ce29-4d1e-b6b6-48245439c216))
     (pin "2" (uuid 17ff3b58-7a8d-4e96-98da-c7764f467240))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "JP2") (unit 1)
         )
@@ -5181,7 +5181,7 @@
     )
     (pin "1" (uuid a7f15880-5c15-482d-b513-c1072f9f7824))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR019") (unit 1)
         )
@@ -5207,7 +5207,7 @@
     (pin "1" (uuid da5a53fc-8ef6-4560-b33d-81ac0703bac2))
     (pin "2" (uuid 055b0a2d-8033-49c6-aa1f-5c991fb520c6))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "JP1") (unit 1)
         )
@@ -5234,7 +5234,7 @@
     (pin "2" (uuid c223a0ed-8a79-4076-a774-c7088b40e119))
     (pin "3" (uuid 6e108c1f-7bf9-4fff-96c0-0d789764397a))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "JP6") (unit 1)
         )
@@ -5261,7 +5261,7 @@
     (pin "2" (uuid 4b2dfe92-ee70-4ed8-aa4b-a9b099c05a0c))
     (pin "3" (uuid 071a6612-07ed-4660-9a38-aacdbaf97bab))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "JP7") (unit 1)
         )
@@ -5310,7 +5310,7 @@
     (pin "8" (uuid 6e5189f1-1776-4fcf-8289-3bf8c06ba23c))
     (pin "9" (uuid 6b3bffb5-e875-4594-989b-326a1259edde))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "J4") (unit 1)
         )
@@ -5344,7 +5344,7 @@
     (pin "8" (uuid c2c92521-b0b0-4679-b66b-3a5f62c55e6d))
     (pin "9" (uuid 9a5da1aa-5b8c-4c81-b7d7-700c10d0bde3))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "J7") (unit 1)
         )
@@ -5371,7 +5371,7 @@
     (pin "2" (uuid 5bb3f3f4-7842-4fa4-b3dc-fbb83f5e08cc))
     (pin "3" (uuid f741ce8e-2f14-4e0f-8b6d-70cb016bb6d6))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "JP5") (unit 1)
         )
@@ -5398,7 +5398,7 @@
     (pin "2" (uuid 03e8083b-c495-466f-b6d8-714e432de3e0))
     (pin "3" (uuid 426aaf91-f28d-4c20-b902-756627a5d470))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "JP4") (unit 1)
         )
@@ -5422,7 +5422,7 @@
       (effects (font (size 1.524 1.524)) hide)
     )
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "H5") (unit 1)
         )
@@ -5447,7 +5447,7 @@
     )
     (pin "1" (uuid b439c155-9a64-40a3-81fa-05cdca789db2))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR018") (unit 1)
         )
@@ -5491,7 +5491,7 @@
     (pin "1" (uuid 0b9682ff-c9af-4d89-8e12-f207b6b32286))
     (pin "2" (uuid 18ecef8b-f8c7-4e8a-8ea0-683e4d4ae48c))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "C3") (unit 1)
         )
@@ -5516,7 +5516,7 @@
     )
     (pin "1" (uuid 9785f88b-5925-4e59-96b1-15236a81e04d))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR017") (unit 1)
         )
@@ -5524,7 +5524,7 @@
     )
   )
 
-  (symbol (lib_id "pi-parport-rescue:+3.3V-power") (at 167.64 57.15 0) (unit 1)
+  (symbol (lib_id "pi-serpar-rescue:+3.3V-power") (at 167.64 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bd915f45-f9f1-4783-8035-952a68f23c8f)
     (property "Reference" "#PWR020" (at 167.64 60.96 0)
@@ -5541,7 +5541,7 @@
     )
     (pin "1" (uuid 52069622-8082-4f9b-9552-a47f9e3fc00d))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR020") (unit 1)
         )
@@ -5566,7 +5566,7 @@
     )
     (pin "1" (uuid e53b2dc2-664b-484d-aebd-461abe5027a7))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR021") (unit 1)
         )
@@ -5606,7 +5606,7 @@
     (pin "8" (uuid 7d7f5ff3-5af9-4969-b4a4-9269b85765a3))
     (pin "9" (uuid 197da6b0-20a7-453e-9393-a7f462648127))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "U3") (unit 1)
         )
@@ -5632,7 +5632,7 @@
     (pin "1" (uuid 86adc24c-73eb-4e3f-bb18-88de24b93268))
     (pin "2" (uuid 9916fc0d-5207-4cfb-bfb9-754eb9291013))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "JP3") (unit 1)
         )
@@ -5657,7 +5657,7 @@
     )
     (pin "1" (uuid 0b14a0a8-8fe0-4598-9315-570ef1b39f2d))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR011") (unit 1)
         )
@@ -5690,7 +5690,7 @@
     (pin "8" (uuid e2b8fbd7-f058-4cce-a583-f61e16c202ce))
     (pin "9" (uuid d3f9ae20-215a-413a-a551-240a7850bf7a))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "J5") (unit 1)
         )
@@ -5734,7 +5734,7 @@
     (pin "1" (uuid a9722b74-28b4-43e4-bab6-55280d66a2ca))
     (pin "2" (uuid 267a46ea-1f2b-4677-93b5-edc47b9dfa57))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "C5") (unit 1)
         )
@@ -5758,7 +5758,7 @@
       (effects (font (size 1.524 1.524)) hide)
     )
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "H6") (unit 1)
         )
@@ -5783,7 +5783,7 @@
     )
     (pin "1" (uuid 435e7c7f-ab2a-421d-bad5-5b2d062403b0))
     (instances
-      (project "pi-parport"
+      (project "pi-serpar"
         (path "/6471c755-79b1-4b9b-8dec-caaf77b1e775"
           (reference "#PWR022") (unit 1)
         )
